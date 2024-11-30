@@ -10,8 +10,8 @@ flutter pub get
 
 ## Run the Application
 
-flutter run
-flutter run -d chrome
-flutter run -d macos # Replace with windows or linux for those platforms
+- flutter run
+- flutter run -d chrome
+- flutter run -d macos # Replace with windows or linux for those platforms
 
 
